@@ -1,0 +1,20 @@
+body{
+  background-color: 	#FFC0CB;
+}
+.comm-left{
+  background-color: 	#FFB6C1;
+  padding:.3rem;
+  border-radius: .3rem;
+  border-bottom:1px solid #FFB6C1;
+}
+.comm-right{
+  background-color: #FFB6C1;
+  margin-left: .5rem;
+  padding:.3rem;
+  border-radius: .3rem;
+  border-bottom:1px solid #FFB6C1;
+
+}
+.comm-main{
+  margin-top: .5rem;
+}

@@ -1,0 +1,37 @@
+.header{
+    background-color:	#FFB6C1;
+    padding: .4rem;
+    overflow: hidden;
+    height: 3rem;
+    border-bottom:1px solid #FFB6C1;
+}
+.header-logo{
+    
+    font-size: 1.5rem;
+    text-align: left;
+
+}
+.header-logo a{
+    color:#FFF0F5;
+}
+.header-txt{
+    font-size: 0.6rem;
+    color: #fff;
+    display: inline-block;
+    padding-left: 0.3rem;
+}
+.ant-menu{
+    background-color:	#FFB6C1;
+}
+.ant-menu-item{
+    color:#fff;
+    padding-left:1rem;
+    padding-right:1rem;
+
+}
+.ant-menu-item-active{
+    color:#FF1493;
+}
+.ant-menu-item-selected{
+    color:#FF1493;
+}
