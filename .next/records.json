@@ -1,0 +1,264 @@
+{
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!static/style/pages/Detail.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!static/style/pages/List.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!static/style/pages/common.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!static/style/pages/index.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/highlight.js/styles/monokai-sublime.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/markdown-navbar/dist/navbar.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/antd/dist/antd.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!static/style/components/Header.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!static/style/components/Author.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!static/style/components/Footer.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!static/style/components/Advert.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "css node_modules/css-loader/index.js??ref--5-1!node_modules/highlight.js/styles/monokai-sublime.css 0": 0,
+      "css node_modules/css-loader/index.js??ref--5-1!static/style/components/Header.css 0": 1,
+      "css node_modules/css-loader/index.js??ref--5-1!static/style/components/Author.css 0": 2,
+      "css node_modules/css-loader/index.js??ref--5-1!static/style/components/Advert.css 0": 3,
+      "css node_modules/css-loader/index.js??ref--5-1!static/style/components/Footer.css 0": 4,
+      "css node_modules/css-loader/index.js??ref--5-1!static/style/pages/Detail.css 0": 5,
+      "css node_modules/css-loader/index.js??ref--5-1!node_modules/markdown-navbar/dist/navbar.css 0": 6,
+      "css node_modules/css-loader/index.js??ref--5-1!static/style/pages/List.css 0": 7,
+      "multi next-client-pages-loader?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js! node_modules/next/dist/client/router.js": 8,
+      "css node_modules/css-loader/index.js??ref--5-1!node_modules/antd/dist/antd.css 0": 9,
+      "css node_modules/css-loader/index.js??ref--5-1!static/style/pages/common.css 0": 10,
+      "css node_modules/css-loader/index.js??ref--5-1!static/style/pages/index.css 0": 11
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11
+    }
+  },
+  "chunks": {
+    "byName": {
+      "29107295": 10,
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "framework": 2,
+      "styles": 3,
+      "75fc9c18": 4,
+      "aec7d165": 5,
+      "e3caa7ffa8409274f2d2abaaf163b5ca2269afa7": 6,
+      "315f1e87294f881e3af16f3eaaf843bdf6ba90e9": 7,
+      "755ce56234b937e6fe1cd832832d8ae6f636de9a": 8,
+      "8052bc000cdc26e6ecd28353a4ed5462f1c29983": 9,
+      "86cd5a91": 11,
+      "static/bXVT7PwYzr5GzW6SThLkA/pages/Detail.js": 12,
+      "static/bXVT7PwYzr5GzW6SThLkA/pages/List.js": 13,
+      "static/bXVT7PwYzr5GzW6SThLkA/pages/_app.js": 14,
+      "static/bXVT7PwYzr5GzW6SThLkA/pages/_error.js": 15,
+      "static/bXVT7PwYzr5GzW6SThLkA/pages/index.js": 16,
+      "static/runtime/main.js": 17,
+      "static/runtime/polyfills.js": 18
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}
