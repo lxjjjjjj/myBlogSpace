@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import Router from 'next/router'
 import Link from 'next/link'
-import '../static/style/components/header.css'
+import '../static/style/components/Header.css'
 import { Row, Col, Menu, Icon } from 'antd'
 import axios from 'axios'
 import servicePath from '../config/apiUrl'
